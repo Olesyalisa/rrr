@@ -1,0 +1,15 @@
+/Users/olesyahalupenko/Desktop/IT/progect/Exampels/E001/bin/Debug/net6.0/E001
+/Users/olesyahalupenko/Desktop/IT/progect/Exampels/E001/bin/Debug/net6.0/E001.deps.json
+/Users/olesyahalupenko/Desktop/IT/progect/Exampels/E001/bin/Debug/net6.0/E001.runtimeconfig.json
+/Users/olesyahalupenko/Desktop/IT/progect/Exampels/E001/bin/Debug/net6.0/E001.dll
+/Users/olesyahalupenko/Desktop/IT/progect/Exampels/E001/bin/Debug/net6.0/E001.pdb
+/Users/olesyahalupenko/Desktop/IT/progect/Exampels/E001/obj/Debug/net6.0/E001.csproj.AssemblyReference.cache
+/Users/olesyahalupenko/Desktop/IT/progect/Exampels/E001/obj/Debug/net6.0/E001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olesyahalupenko/Desktop/IT/progect/Exampels/E001/obj/Debug/net6.0/E001.AssemblyInfoInputs.cache
+/Users/olesyahalupenko/Desktop/IT/progect/Exampels/E001/obj/Debug/net6.0/E001.AssemblyInfo.cs
+/Users/olesyahalupenko/Desktop/IT/progect/Exampels/E001/obj/Debug/net6.0/E001.csproj.CoreCompileInputs.cache
+/Users/olesyahalupenko/Desktop/IT/progect/Exampels/E001/obj/Debug/net6.0/E001.dll
+/Users/olesyahalupenko/Desktop/IT/progect/Exampels/E001/obj/Debug/net6.0/refint/E001.dll
+/Users/olesyahalupenko/Desktop/IT/progect/Exampels/E001/obj/Debug/net6.0/E001.pdb
+/Users/olesyahalupenko/Desktop/IT/progect/Exampels/E001/obj/Debug/net6.0/E001.genruntimeconfig.cache
+/Users/olesyahalupenko/Desktop/IT/progect/Exampels/E001/obj/Debug/net6.0/ref/E001.dll
